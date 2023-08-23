@@ -1,4 +1,4 @@
-# Capstone-Project
+# Sentiment Analysis on NLP
 Data Analytics Project
 
 Importing Libraries: The necessary libraries such as Pandas, NumPy, TextBlob, NLTK, spaCy, and others are imported.
